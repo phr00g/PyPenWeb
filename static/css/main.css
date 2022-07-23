@@ -1,0 +1,63 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+
+
+
+
+body{
+    background-color:  #7765E3;
+}
+
+
+#major {
+
+
+    text-align: center;
+    font-size: 100px;
+    color: #080708;
+    padding-top: 40px;
+}
+
+.links{
+    text-align: center;
+    font-size: 50px;
+}
+
+#linked{
+    height: 80px;
+}
+
+#gitlogo{
+    height: 80px;
+}
+
+#pypenlink{
+
+    text-align: center;
+    margin-top: 70px;
+
+}
+
+#blood{
+
+    height: 300px;
+    text-align: center;
+    
+}
+
+#bloodcontainer{
+    text-align: center;
+    padding-bottom: 40px;
+    margin-top: 0px;
+    border-top: 20px;
+    padding-top : 40px;
+}
